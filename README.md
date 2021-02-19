@@ -12,8 +12,8 @@
 
 ### My Hobby:
   - [Categories](#categories)
-      - [Read Book 🤖](#read-book-)
-      - [Listen Podcast 🚀](#listen-podcast-)
+      - [Read Book 📫](#read-book-)
+      - [Listen Podcast 💞️](#listen-podcast-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
   - [Tools](#tools)
       - [zsh](#zsh)
