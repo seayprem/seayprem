@@ -31,6 +31,8 @@
 
 #### Github Commit
   - [iqoption_autotrade_with_tradingview](https://github.com/seayprem/iqoption_autotrade_with_tradingview)
+  - [discord-bot-gruppegrak](https://github.com/seayprem/discord-bot-gruppegrak)
+  - [discord-bot-gruppegrak-music](https://github.com/seayprem/discord-bot-gruppegrak-music)
 
 
 
